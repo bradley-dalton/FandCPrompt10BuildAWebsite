@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Iceland&display=swap");
+img {
+  border: solid #095169;
+  border-radius: 4px;
+  padding: 5px;
+  width: 550px;
+}
+body {
+  background-color: #0c0636;
+}
+h1 {
+  font-family: iceland, helvetica;
+  color: #059b9a;
+  font-size: 60px;
+  text-align: center;
+}
+h2 {
+  font-family: iceland, helvetica;
+  color: #095169;
+  font-size: 40px;
+}
+h3 {
+  font-family: iceland, helvetica;
+  color: #095169;
+  font-size: 40px;
+}
+.dark {
+  background-color: #059b9a;
+  margin: 0px;
+  padding: 80px;
+  color: #095169;
+  font-family: helvetica, arial;
+  font-size: 24px;
+}
+.light {
+  background-color: #095169;
+  margin: 0px;
+  padding: 80px;
+  color: #059b9a;
+  font-family: helvetica, arial;
+  font-size: 24px;
+}
+
+a:link {
+  color: #53ba83;
+}
+a:visited {
+  color: #9fd86b;
+}
+a:hover {
+  color: #9fd86b;
+}
+a:active {
+  color: #53ba83;
+}
+ol {
+  background-color: #059b9a;
+  margin: 80px;
+  border-style: solid;
+  border-width: medium;
+  border-color: #9fd86b;
+  padding: 80px;
+  color: #095169;
+  font-family: helvetica, arial;
+  font-size: 24px;
+}
+ul {
+  background-color: #059b9a;
+  margin: 80px;
+  border-style: solid;
+  border-width: medium;
+  border-color: #9fd86b;
+  padding: 80px;
+  color: #095169;
+  font-family: helvetica, arial;
+  font-size: 24px;
+}
+footer {
+  font-size: 18px;
+}
+.radiobutton {
+  font-family: iceland, helvetica;
+  color: #9fd86b;
+  font-size: 30px;
+  text-align: center;
+}
